@@ -1,5 +1,4 @@
 import React from 'react'
-import { BsArrowRightShort } from 'react-bootstrap-icons';
 import CardShop from './CardShop'
 
 function HeroTwo() {
@@ -41,7 +40,6 @@ function HeroTwo() {
 
     <div className='flex justify-center items-center w-screen'>
         <a href='/' className='text-lg underline text-blue-600'>View plan comparision  </a>
-        <BsArrowRightShort />
     </div>
   </div>
   )

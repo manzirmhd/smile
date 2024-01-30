@@ -1,5 +1,4 @@
 import React from 'react'
-import { BsArrowRightShort } from 'react-bootstrap-icons';
 import CardTwo from './CardTwo';
 
 function HeroFour() {
@@ -17,6 +16,7 @@ function HeroFour() {
             four="Style your program to match your brand"
             />
         </div>
+        
 
         <div className="px-5">
             <CardTwo
@@ -33,7 +33,6 @@ function HeroFour() {
       </div>
       <div className='flex justify-center items-center w-screen'>
         <a href='/' className='text-lg underline text-blue-600'>View plan comparision  </a>
-        <BsArrowRightShort />
     </div>
 
     </div>
