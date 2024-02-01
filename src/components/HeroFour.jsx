@@ -17,7 +17,6 @@ function HeroFour() {
             />
         </div>
         
-
         <div className="px-5">
             <CardTwo
              heading="Premium"
@@ -34,7 +33,6 @@ function HeroFour() {
       <div className='flex justify-center items-center w-screen'>
         <a href='/' className='text-lg underline text-blue-600'>View plan comparision  </a>
     </div>
-
     </div>
   )
 }
